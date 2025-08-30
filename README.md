@@ -25,6 +25,7 @@ Collection of LeetCode questions
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/shubhaygautam/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/shubhaygautam/leetcode/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
@@ -46,4 +47,8 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shubhaygautam/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/shubhaygautam/leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
