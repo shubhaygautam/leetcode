@@ -70,4 +70,8 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shubhaygautam/leetcode/tree/master/0011-container-with-most-water) |
+## Math
+|  |
+| ------- |
+| [3830-find-closest-person](https://github.com/shubhaygautam/leetcode/tree/master/3830-find-closest-person) |
 <!---LeetCode Topics End-->
