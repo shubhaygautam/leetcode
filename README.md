@@ -13,6 +13,7 @@ Collection of LeetCode questions
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shubhaygautam/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shubhaygautam/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/shubhaygautam/leetcode/tree/master/0217-contains-duplicate) |
+| [0300-longest-increasing-subsequence](https://github.com/shubhaygautam/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/shubhaygautam/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
@@ -66,6 +67,7 @@ Collection of LeetCode questions
 | [0033-search-in-rotated-sorted-array](https://github.com/shubhaygautam/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shubhaygautam/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shubhaygautam/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0300-longest-increasing-subsequence](https://github.com/shubhaygautam/leetcode/tree/master/0300-longest-increasing-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -74,4 +76,8 @@ Collection of LeetCode questions
 |  |
 | ------- |
 | [3830-find-closest-person](https://github.com/shubhaygautam/leetcode/tree/master/3830-find-closest-person) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/shubhaygautam/leetcode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
